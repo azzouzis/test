@@ -1,4 +1,3 @@
 
 ### The Online FluxML Validator
-<h1>FluxML Online Validator:</h1>
-See [ ```Web```](web)
+<a href="web.html">FluxML Online Validator:</a> 
